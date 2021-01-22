@@ -12,8 +12,7 @@ function kilometerToMeter(kilo) {
       return 'Please input a valid number!';
     }
   }
-// var  kiloMan = kilometerToMeter(15);
-// console.log(kiloMan);
+
 
 //Budget Calculator//
 
@@ -32,8 +31,7 @@ function budgetCalculator(ghori, mobile, laptop) {
     }
   }
 
-//var totalPrice = budgetCalculator(1, 1, 1);
-//console.log(totalPrice);
+
 
 
 //Hotel Cost//
@@ -57,8 +55,7 @@ function hotelCost(duration) {
     }
     return overNightVara;
 }
-// var totalCost = hotelCost(45);
-// console.log(totalCost);
+
 
 
 //megaFriend//
@@ -73,9 +70,7 @@ function megaFriend(largeName) {
     }
     return bigger;
 }
-// var largeName = ['Rahim','Karim','Shakil Hossain','Victor banargi','Sumon Deowan'];
-// var output = megaFriend(largeName);
-// console.log('output', output);
+
 
 
 
